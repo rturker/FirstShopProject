@@ -1,0 +1,7 @@
+//customer user
+vkp93683@zwoho.com
+deneme1
+
+//admin user
+admin@shopapp.com
+shopapp123

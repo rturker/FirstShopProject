@@ -1,0 +1,14 @@
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.deps.json
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Business.pdb
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Data.dll
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Data.pdb
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csprojAssemblyReference.cache
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.AssemblyInfoInputs.cache
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.AssemblyInfo.cs
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csproj.CoreCompileInputs.cache
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.csproj.CopyComplete
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.dll
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Business\obj\Debug\netcoreapp3.1\ShopApp.Business.pdb

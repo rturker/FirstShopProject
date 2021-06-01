@@ -1,0 +1,15 @@
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.deps.json
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.json
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.runtimeconfig.dev.json
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.dll
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Data.pdb
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Entity.dll
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\bin\Debug\netcoreapp3.1\ShopApp.Entity.pdb
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csprojAssemblyReference.cache
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfoInputs.cache
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.AssemblyInfo.cs
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CoreCompileInputs.cache
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.csproj.CopyComplete
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.dll
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.pdb
+D:\NewShopProject\ShopApp\ShopApp\ShopApp.Data\obj\Debug\netcoreapp3.1\ShopApp.Data.genruntimeconfig.cache
